@@ -1,0 +1,4 @@
+﻿ID	Value
+string	string
+Id	Value
+APP_VERSION	1.20
