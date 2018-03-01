@@ -1,0 +1,7 @@
+﻿ID	说明	平台场景ID	平台场景ID	Facebook	Keyword	Gender	Birthday	ForFamilies	ForChild
+string	int	string	string	string	string	int	string	bool	bool
+Id	AdType	AdmobAndroid	AdmobIos	Facebook	Keyword	Gender	Birthday	ForFamilies	ForChild
+MiddleBanner	0	asd	asd			0			
+MainInter	1	ca-app-pub-4654527272911991/6777034642	ca-app-pub-4654527272911991/3426739158			0			
+MainRewardVideo	2	ca-app-pub-4654527272911991/5018543490	ca-app-pub-4654527272911991/4548249136			0			
+LargeBanner	0	asd	asd			0			
