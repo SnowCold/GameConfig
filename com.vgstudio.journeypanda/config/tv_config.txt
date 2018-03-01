@@ -1,0 +1,9 @@
+﻿ID	Value
+int	string
+Id	Url
+1	https://github.com/SnowCold/GameConfig/blob/master/Images/pic%20(1).png?raw=true
+2	https://github.com/SnowCold/GameConfig/blob/master/Images/pic%20(2).png?raw=true
+3	https://github.com/SnowCold/GameConfig/blob/master/Images/pic%20(3).png?raw=true
+4	https://github.com/SnowCold/GameConfig/blob/master/Images/pic%20(4).png?raw=true
+5	https://github.com/SnowCold/GameConfig/blob/master/Images/pic%20(5).png?raw=true
+6	https://github.com/SnowCold/GameConfig/blob/master/Images/pic%20(6).png?raw=true
