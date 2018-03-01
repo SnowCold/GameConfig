@@ -1,4 +1,16 @@
 ﻿ID	Value
 string	string
 Id	Value
-APP_VERSION	1.20
+com.vgstudio.pandajourney	Android
+com.vgstudio.pandajourney.version	1.0.0
+com.vgstudio.pandajourney.name_zh	旅行熊猫
+com.vgstudio.pandajourney.name	PandaJourney
+com.vgstudio.pandajourney.name_tw	旅行熊貓
+com.vgstudio.pandajourney.app_id	
+com.vgstudio.pandajourney.download_ios	
+com.vgstudio.pandajourney.download_android	
+com.vgstudio.pandajourney.icon	https://github.com/SnowCold/GameConfig/blob/master/Images/icon.png?raw=true
+com.vgstudio.pandajourney.preview_image	https://github.com/SnowCold/GameConfig/blob/master/Images/PreviewPic.jpg?raw=true
+com.vgstudio.pandajourney.desc	Come on,play with pande!
+com.vgstudio.pandajourney.desc_tw	跟你的貓熊快活啊！
+com.vgstudio.pandajourney.desc_zh	來啊快活啊！
